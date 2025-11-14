@@ -1,0 +1,19 @@
+{
+  "name": "ocr-menu",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "replicate": "^0.34.1",
+    "axios": "^1.7.7",
+    "sharp": "^0.33.5",
+    "dotenv": "^16.4.5"
+  }
+}

@@ -1,0 +1,8 @@
+node_modules
+.env
+output
+tmp
+input-menu
+init.md
+*.log
+
